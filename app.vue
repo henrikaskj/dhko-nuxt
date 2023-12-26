@@ -2,6 +2,10 @@
   <div class="min-h-screen flex flex-col">
     
     <header class="p-10 bg-gradient-to-tr from-teal-800 to-teal-600 shadow-md flex flex-col justify-center items-center">
+      <nav class="absolute top-0 right-0 p-4">
+        <a v-if="$i18n.locale != 'en'" lang="en" class="text-white no-underline flex items-center gap-1" href="/en" @click="setLocale('en')"><LocaleIcon/>English</a>
+        <a v-if="$i18n.locale != 'no'" lang="no" class="text-white no-underline flex items-center gap-1" href="/no" @click="setLocale('no')"><LocaleIcon/>Norsk</a>
+      </nav>
       <h1 class="font-bold text-3xl text-white mb-2">DHKO</h1>
       <h2 class="text-xl text-white">{{$t('description')}}</h2>
             <ContentNavigation v-slot="{ navigation }" :query='localizedPages'>

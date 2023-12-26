@@ -1,5 +1,5 @@
 ---
-title: 'Hovedsiden'
+title: 'Demo'
 ---
 
 # Overskrift 1

@@ -1,1 +1,0 @@
-# test norsk 2

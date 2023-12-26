@@ -44,7 +44,7 @@
   }
 
   main ul, main ol {
-    @apply pb-6 list-inside;
+    @apply pb-6 pl-5 ;
   }
 
 
