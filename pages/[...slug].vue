@@ -12,4 +12,5 @@ const i18n = useI18n()
 const route = useRoute()
 
 const { data } = await useAsyncData(route.fullPath, () => queryContent('/').where({ _locale: i18n.locale.value, _path: route.fullPath.slice(3, route.fullPath.length) || "/"}).findOne())
+useContentHead(data)
 </script>

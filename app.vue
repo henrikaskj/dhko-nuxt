@@ -29,7 +29,20 @@
 
 <script setup>
 import { useI18n } from 'vue-i18n'
+import { useRoute } from 'vue-router'
+
 const i18n = useI18n()
+const route = useRoute()
+
 const localizedPages = queryContent().where({ _locale: i18n.locale.value })
+
+const titleTemplate = (titleChunk) => {
+  return route.params.slug ? `${titleChunk} - dhko.no` : 'dhko.no';
+
+}
+useHead({
+    titleTemplate
+})
+
 
 </script>
