@@ -1,5 +1,9 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  nitro: {
+    static: true,
+    preset: 'vercel'
+  },
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
