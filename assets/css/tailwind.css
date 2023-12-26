@@ -16,6 +16,10 @@
     @apply text-slate-800;
   }
 
+  p {
+    @apply pb-6
+  }
+
   blockquote {
     @apply bg-slate-100;
     padding: 1rem;
