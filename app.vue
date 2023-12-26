@@ -41,7 +41,10 @@ const titleTemplate = (titleChunk) => {
 
 }
 useHead({
-    titleTemplate
+    titleTemplate,
+    htmlAttrs: {
+      lang: i18n.locale.value
+    }
 })
 
 
