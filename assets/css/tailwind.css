@@ -61,6 +61,11 @@
   main li {
     @apply pb-2;
   }
+
+
+  code {
+    @apply bg-slate-100 text-slate-800 rounded-sm px-1;
+  }
   
 
 }
