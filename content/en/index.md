@@ -1,5 +1,5 @@
 ---
-title: 'Hovedsiden'
+title: 'Home'
 ---
 
 # Heading 1
