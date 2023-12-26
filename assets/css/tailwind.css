@@ -43,14 +43,24 @@
     @apply decoration-rose-500 underline decoration-2 underline-offset-4
   }
 
+  main ul, main ol {
+    @apply pb-6 list-inside;
+  }
+
+
+  main ul {
+    @apply list-disc;
+  }
+
   
+
+  main ol {
+    @apply list-decimal;
+  }
+
+  main li {
+    @apply pb-2;
+  }
   
-
-
-
-  
-
-  
-
 
 }
