@@ -1,3 +1,7 @@
+---
+title: 'Hovedsiden'
+---
+
 # Heading 1
 
 ## Heading 2

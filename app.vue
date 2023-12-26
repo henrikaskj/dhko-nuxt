@@ -6,7 +6,6 @@
             <ContentNavigation v-slot="{ navigation }">
         <nav class="mt-5 ">
           <ul class="flex space-x-4">
-            <li><NuxtLink class="text-white hover:text-tertiary" to="/">Hovedsiden</NuxtLink></li>
             <li v-for="link of navigation" :key="link._path">
               <NuxtLink :to="link._path" class="text-white hover:text-tertiary">{{ link.title }}</NuxtLink>
             </li>
