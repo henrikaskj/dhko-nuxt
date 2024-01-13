@@ -21,7 +21,6 @@ export default defineNuxtConfig({
 
   },
   content: {
-    locales: ['no', 'en'],
     markdown: {
       anchorLinks: false
     }

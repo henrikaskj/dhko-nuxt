@@ -43,7 +43,7 @@
   }
 
   a[aria-current] {
-    @apply decoration-orange-200 underline decoration-2 underline-offset-4
+    @apply decoration-amber-500 underline decoration-2 underline-offset-4
   }
 
   main a {
