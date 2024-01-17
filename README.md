@@ -1,75 +1,9 @@
-# Nuxt 3 Minimal Starter
+# dhko-nuxt
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Redigere innhold
+Innholdet på siden ligger som .md-filer i mappene content/en og content/no.
+Siden vil bli oppdatert automatisk hver gang man committer endringer til en branch. Endringer i main branch går i produksjon, mens andre branches blir forhåndsvisninger. Disse er tilgjengelige under "deployments" nede til høyre på github-siden.
 
-## Setup
+Nummereringen i filnavnene avgjør rekkefølgen i navigasjonsmenyen. Foreløpig havner alle sidene i navigasjonsmenyen, men vi kan senere legge til undersider hvis dette er ønskelig, for eksempel nyheter på forsiden.
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Når man oppretter nye sider er det viktig at de har samme navn i mappene content/no og content/en, slik at man vil komme til rett side når man bytter språk.
