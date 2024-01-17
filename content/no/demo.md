@@ -16,7 +16,7 @@ title: 'Demo'
 
 [Lenke](https://www.example.com)
 
-![Bilde](https://www.example.com/image.jpg)
+![Bilde](/image.png)
 
 - Liste element 1
 - Liste element 2
