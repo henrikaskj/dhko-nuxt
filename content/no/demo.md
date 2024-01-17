@@ -17,6 +17,7 @@ title: 'Demo'
 [Lenke](https://www.example.com)
 
 ![Bilde](/image.png)
+![image](https://github.com/henrikaskj/dhko-nuxt/assets/22298175/8c8d0bcd-f1c4-42ad-859f-fa86472da9f8)
 
 - Liste element 1
 - Liste element 2
