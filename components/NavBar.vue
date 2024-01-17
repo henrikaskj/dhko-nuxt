@@ -1,8 +1,8 @@
 <template>
-    <nav class="mt-5 " v-if="navigation">
-        <ul class="flex space-x-4">
-        <li v-for="link of navigation[0].children" :key="i18n.locale + '/' +  link._path">
-            <NuxtLink :to="'/' + $i18n.locale + link._path" class="text-teal-900 hover:text-teal-600">{{ link.title }}</NuxtLink>
+    <nav v-if="navigation">
+        <ul class="flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0 text-center lg:text-xl">
+        <li v-for="link of navigation[0].children.filter(item => !item.children)" :key="i18n.locale.value + '/' +  link._path">
+            <NuxtLink :to=" link._path" class="text-slate-50 hover:text-slate-300 whitespace-nowrap">{{ link.title }}</NuxtLink>
         </li>
         </ul>
     </nav>
@@ -12,17 +12,6 @@
 import { useI18n } from 'vue-i18n'
 const i18n = useI18n()
 
-let navigation = ref([])
-
-const fetchNavigation = async () => {
-  const queryBuilder = queryContent(i18n.locale.value)
-  const { data } = await useAsyncData(`navigation-${i18n.locale}`, () => fetchContentNavigation(queryBuilder))
-  navigation.value = data.value
-}
-
-// Fetch navigation data initially
-fetchNavigation()
-
-// Update navigation data when locale changes
-watch(i18n.locale, fetchNavigation)
+const queryBuilder = queryContent(i18n.locale.value)
+const { data: navigation } = await useAsyncData('navigation_' + i18n.locale.value, () => fetchContentNavigation(queryBuilder))
 </script>
