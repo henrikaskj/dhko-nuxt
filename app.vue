@@ -16,7 +16,7 @@
     <NuxtPage/>
     </main>
     <footer class="p-5 bg-slate-200 text-center">
-      <p class="text-slate-900">&copy; 2022 DHKO</p>
+      <p class="text-slate-900">&copy; {{ new Date().getFullYear() }} DHKO</p>
     </footer>
   </div>
 </template>
