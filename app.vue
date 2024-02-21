@@ -36,7 +36,10 @@ useHead({
     titleTemplate,
     htmlAttrs: {
       lang: i18n.locale.value
-    }
+    },
+    link: [
+        { rel: "icon", type: "image/svg", href: "/favicon.svg" }
+      ]
 })
 
 
