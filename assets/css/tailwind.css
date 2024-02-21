@@ -8,6 +8,10 @@
     flex-grow: 1;
     padding: 1.25rem;
   }
+
+  html{
+    overflow-y: scroll;
+    }
   
   main h2, main h1 {
     font-weight: bold;
