@@ -18,7 +18,7 @@ Overall, the focus is on digital-born data from the internet or digitized materi
 - Studies of cultural phenomena through digital traces and materials
 - Use of cultural metadata in humanistic research
 - Data feminism studies (e.g., close readings of datasets)
-- Digital editions philology
+- Digital scholary editing / text criticism
 - Preservation, maintenance and curation of digital culture or digitalized culture/cultural heritage
 - Digital curation, particularly algorithms, in both social media and other digital platforms for cultural dissemination and cultural organization
 - CMC (computer mediated communication) in the face of AI-generated text
