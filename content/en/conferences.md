@@ -36,7 +36,10 @@ Submitted abstracts for presentations should be max. 300 words. Presentations wi
  <br><br>
 **Important dates**
 
-The deadline for submissions is **August 15**. Responses to submitted abstracts will be sent out **August 25**. We will strive to include all submitted contributions, but if we receive more than there is room for, the following criteria will apply:
+⚠️ **EXTENDED DEADLINE: AUGUST 26TH, 23:59. Responses will be sent out August 28th** ⚠️
+
+~~The deadline for submissions is **August 15**. Responses to submitted abstracts will be sent out **August 25**.~~
+We will strive to include all submitted contributions, but if we receive more than there is room for, the following criteria will apply:
 - Explicit thematic relevance
 - Contribution to the overall breadth of the conference program
 - Cooperation between higher ed institutions and the LAM sector
