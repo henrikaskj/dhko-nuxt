@@ -38,7 +38,10 @@ Innsendte sammendrag skal være på **maks 1600 tegn (ca. 300 ord)**. Presentasj
 
 **Viktige datoer**
 
-Deadline for innsending av forslag er **15 august**. Svar på innsendte bidrag kommer **25 august**. Vi vil etterstrebe å inkludere alle innsendte bidrag, men får vi flere enn det er plass til vil følgende kriterier gjelde:
+⚠️ **UTVIDET FRIST: MANDAG 26. AUGUST, 23:59. Svar på innsendte bidrag kommer 28. august.** ⚠️
+~~Deadline for innsending av forslag er **15 august**. Svar på innsendte bidrag kommer **25 august**~~. 
+
+Vi vil etterstrebe å inkludere alle innsendte bidrag, men får vi flere enn det er plass til vil følgende kriterier gjelde:
 - Eksplisitt tematisk relevans
 - En samlet bredde i konferanseprogrammet
 - Samarbeid mellom høyere utdanningsinstitusjoner og ABM-feltet. 
