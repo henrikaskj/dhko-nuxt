@@ -17,7 +17,7 @@ Verkstedene er også åpne for masterstudenter og vi oppfordrer deg som forelese
 **ARTISTIC KEYNOTE: Code Poetry: The constraints of programming and making art with code**
 *Chris Kerr (UK) will do a performance of code poetry as well as give a talk on working artistically with programming language (syntax, vocabulary, character)and how to make poetry, visual and sound art.*
 
-*cHRIS Kerr is a poet who lives in London. He co-wrote ./code --poetry with Daniel Holden. This work, published by Broken Sleep Books in 2023, is a collection of code poems each written in the source code of a different programming language. Every poem is also a valid program which produces a visual representation of itself when compiled and run (see [code-poetry.com](https://code-poetry.com/).). Some code poems from ./code --poetry are being exhibited in the Maschinenpoesie (Machine Poetry) exhibition at Museum Strauhof in Zurich, Switzerland until January 2025.* 
+*Chris Kerr is a poet who lives in London. He co-wrote ./code --poetry with Daniel Holden. This work, published by Broken Sleep Books in 2023, is a collection of code poems each written in the source code of a different programming language. Every poem is also a valid program which produces a visual representation of itself when compiled and run (see [code-poetry.com](https://code-poetry.com/).). Some code poems from ./code --poetry are being exhibited in the Maschinenpoesie (Machine Poetry) exhibition at Museum Strauhof in Zurich, Switzerland until January 2025.* 
 
 Konferansemiddagen vil være på mandag kl. 17.30. 
 
