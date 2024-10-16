@@ -3,7 +3,7 @@ title: 'Årlig konferanse'
 ---
 
 # Konferanse 2024: Digitale og digitaliserte spor
-## Påmelding til årskonferansen 21-22 Oktober
+## Årskonferansen 21-22 Oktober
 Årets konferanse har temaet «digitale og digitaliserte spor». Med dette ønsker vi å favne all humanistisk orientert forskning på og med materialer i digital form. Her inngår både digitalt fødte («digital born») og digitale tvillinger («digital twins»). Sistnevnte er et begrep for det som skapes av at vi digitaliserer noe som opprinnelig har en annen fysisk form. Felles er at slike digitale materialer kommer med ulike vilkår som påvirker både hvordan de kan forskes på og hva som er mulig å lese ut av materialene. Vi er ute etter hva som setter spor, hvordan slike spor kommer til, og hva vi kan bruke sporene til. Temaet er derfor bredt nok til å favne mediehistoriker og professor John Durham Peters sin definisjon av humaniora som disiplinene som har sitt hovedfokus på lagring, overføring/formidling og tolkning av kultur. 
 <br><br><br>
 
