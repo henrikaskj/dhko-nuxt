@@ -12,32 +12,31 @@ title: 'Årlig konferanse'
 ### MANDAG 21. oktober
 På mandagen går fire verksteder: **innføring i programmering og dataanalyse for humanister, introduksjon til SAMLA.no og bruk av Transkribus (maskinassistert tekstgjenkjenning), Innføring i innsamling og analyse av korpus fra sosiale medier med bruk av 4CAT, og å bruke byggesteiner fra API’et til Nasjonalbiblioteket for å gjøre ulike analyser av data og tekstkorpus.** 
 
-Verkstedene er også åpne for masterstudenter og vi oppfordrer deg som foreleser (i Trondheim) til å videre oppfordre masterstudenter til å melde seg på for metodologisk inspirasjon! 
-
 **ARTISTIC KEYNOTE: Code Poetry: The constraints of programming and making art with code**
-*Chris Kerr (UK) will do a performance of code poetry as well as give a talk on working artistically with programming language (syntax, vocabulary, character)and how to make poetry, visual and sound art.*
+*Chris Kerr (UK) will explore how code poetry can be seen as a form of highly-constrained writing. He will look back at the history of French collective Oulipo and their engagement with computer science, focusing on work by Oulipo members Noël Arnaud and Valérie Beaudouin. Chris will also explore how programmers play with constraints today, from "code golf" to esoteric programming languages. Meanwhile, he will present the constraints of his collection ./code --poetry, co-authored with Daniel Holden*
 
 *Chris Kerr is a poet who lives in London. He co-wrote ./code --poetry with Daniel Holden. This work, published by Broken Sleep Books in 2023, is a collection of code poems each written in the source code of a different programming language. Every poem is also a valid program which produces a visual representation of itself when compiled and run (see [code-poetry.com](https://code-poetry.com/).). Some code poems from ./code --poetry are being exhibited in the Maschinenpoesie (Machine Poetry) exhibition at Museum Strauhof in Zurich, Switzerland until January 2025.* 
 
-Konferansemiddagen vil være på mandag kl. 17.30. 
-
 ### Tirsdag 22. oktober
 
-**KONFERANSE-KEYNOTE: Jonathan Westin, Göteborg universitet og GRIDH, Sverige **
-*Theme of the keynote will be on research infrastructures for digital humanities, and current projects that GRIDH has ongoing, i.e. collecting data from endangered environments (ongoing project in Ukraine), as well as  advanced digital documentation methods involved with the creation of digital archives.* 
+**KONFERANSE-KEYNOTE:**
+**A Thousand Years of Graffiti - War, Cultural Heritage in Peril, and Digital Humanities**
+**Jonathan Westin, GRIDH**
+ 
+*Saint Sophia Cathedral in Kyiv is a world heritage a thousand years old and a source of knowledge that is now threatened by the ongoing war. Carved into its frail frescoes are more than seven thousand inscriptions in multiple languages from those that have visited the cathedral over the centuries. Observations and marks from travellers, merchants, and princesses mix with crude drawings and messages of yearnings and pleads for salvation. Jonathan Westin, Director of GRIDH, Gothenburg Research Infrastructure in Digital Humanities, presents how he together with his colleagues strive to help Ukraine to preserve and analyse these threatened  historical sources digitally before they are destroyed, and what roll Digital Humanities can play in contingency planning and securing cultural heritage for the future.* 
+
 
 *Jonathan Westin is an associate professor in Conservation and current Director of Gothenburg Research Infrastructure in Digital Humanities ([GRIDH](https://www.gu.se/digital-humaniora)) at the University of Gothenburg. His research focuses on how we form our perception of culture through representations, and how these representations become part of our cultural heritage. By focusing on the communicative aspects of culture management, I approach the creation of visual representations as a negotiation process between new research and established images.*
 
 
 Konferansepresentasjoner følger etter keynote. Vi har forsøkt å samle de tematisk og følgende temaer er å finne på programmet: **kartlegging og klassifisering, digital kultur, digital kulturarv og metodologiske veier videre**.
 
-[FORELØPIG PROGRAM](https://drive.google.com/file/d/1AQeLVlN1ixRmyB2G_M_gBQYeJ20jA68g/view?usp=sharing)
+[ENDELIG PROGRAM](https://drive.google.com/file/d/14O5zi_H1IXR45OawSqGSkr-atA9jnYe4/view?usp=drive_link)
+<br>
+<br>
+[Arrangementsside på NTNU](https://www.ntnu.no/kalender/detaljer/-/event/902e7ad4-9c7a-3516-8791-92ea6202efa4)
 
-Detaljert program (med fullstendige sammendrag av presentasjoner) sendes ut senere til alle påmeldte uken før. 
-
-[PÅMELDING TIL KONFERANSE HER](https://nettskjema.no/a/dhko2024) 
-
-Deadline: 15. oktober
+Her finner du lenke til strømming av konferansedagen 22. oktober. 
 <br>
 
 
