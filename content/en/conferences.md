@@ -4,7 +4,7 @@ title: 'Yearly Conference'
 
 # Conference 2025
 
-The annual conference will take place in week 42 of October 2025 at the University of Innlandet. Stay tuned for more information. 
+The annual conference will take place 15 - 16th of October 2025 at the University of Innlandet. This years theme is "infrastructure and interface". Stay tuned for more information. 
 
 <br>
 <br>
