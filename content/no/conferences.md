@@ -4,7 +4,7 @@ title: 'Årlig konferanse'
 
 # Konferanse 2025
 
-Årskonferansen vil bli avholdt i uke 42 i oktober 2025 ved Universitetet Innlandet. Følg med for mer informasjon. 
+Årskonferansen vil bli avholdt 15-16 oktober 2025 ved Universitetet Innlandet. Årets tema er "infrastruktur og grensesnitt". Følg med for mer informasjon. 
 
 <br>
 <br>
