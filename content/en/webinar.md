@@ -27,6 +27,7 @@ The speaker is [Siv Gøril Brandtzæg](https://www.ntnu.edu/employees/siv.brandt
 In the years 2018-2022, several projects were launched in Norway that aimed to shed light on the place of broadside poems in Norwegian cultural heritage. In one of these projects, the NTNU [Gunnerus Library's](https://www.ntnu.edu/ub/libraries/gunnerus) collection of broadside prints was digitized. The work to make the collection available was led by Siv Gøril Brandtzæg, who also created the first and currently only database of broadside poems in Norway.
 
 In this lecture, Siv Gøril Brandtzæg will talk about the work of developing the database, which is built on the open web application Omeka. The construction and design of the database was a collaboration between Brandtzæg and the IT department at NTNU. The collaboration also included a web designer from a private company. Brandtzæg will talk about the collaboration with the various actors, and what challenges she, as a humanist without IT skills, faced on the way to the database.
+
 <BR>
 <BR>
 
@@ -40,6 +41,14 @@ About the lecturer
 <BR>
 <BR>
 
-- **Thursday 8 May at 11.30-12.00**
+- **Thursday 8 May at 11.30-12.00 [IN NORWEGIAN]**
 
-TBA.
+Predicting the Buried Past: Using Digital Tools in the Search for Hidden Graves in the Falstad Forest
+
+In this lecture, a research project is presented that employs advanced digital methods to search for unknown graves in the Falstad Forest - a national memorial site linked to Gestapo executions during World War II. Using GIS technology, geophysical surveys, and historical sources, researchers aim to shed new light on the fate of the missing, without disturbing the protected area.
+
+[Kristoffer Eliassen Grini](https://falstadsenteret.no/ansatte) is a researcher at the [Falstad Centre](https://falstadsenteret.no). He holds a PhD in contemporary archaeology from NTNU (2022) and works with both material and immaterial traces of war and conflict.
+
+<BR>
+<BR>
+
