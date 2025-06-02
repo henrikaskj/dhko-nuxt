@@ -28,6 +28,7 @@ Foredragsholder er [Siv Gøril Brandtzæg](https://www.ntnu.no/ansatte/siv.brand
 I årene 2018-2022 ble det satt i gang flere prosjekter i Norge som hadde til hensikt å belyse skillingsvisenes plass i norsk kulturarv. I et av disse prosjektene ble NTNU [Gunnerusbibliotekets](https://www.ntnu.no/ub/bibliotek/gunnerus) samling av skillingstrykk digitalisert. Arbeidet med å tilgjengeliggjøre samlingen ble ledet av Siv Gøril Brandtzæg, som også laget den første og foreløpig eneste databasen over skillingsviser i Norge.
 
 I dette foredraget skal Siv Gøril Brandtzæg fortelle om arbeidet med å utvikle databasen, som er laget på den åpne nettapplikasjonen Omeka. Konstruksjon og design av databasen var et samarbeid mellom Brandtzæg og IT-avdelingen ved NTNU. Samarbeidet inkluderte også en webdesigner fra et privat firma. Brandtzæg vil fortelle om samarbeidet med de ulike aktørene, og hvilke utfordringer hun som humanist uten IT-kompetanse møtte på veien mot databasen.
+
 <BR>
 <BR>
 
@@ -41,6 +42,13 @@ About the lecturer
 <BR>
 <BR>
 
-- **Torsdag 8. mai kl. 11.30-12.00**
+- **Torsdag 8. mai kl. 11.30-12.00 [PÅ NORSK]**
 
-TBA.
+Predicting the Buried Past: Bruk av digitale verktøy i søket etter skjulte graver i Falstadskogen
+
+I dette foredraget presenteres et forskningsprosjekt som bruker avanserte digitale metoder for å lete etter ukjente graver i Falstadskogen – et nasjonalt minnested knyttet til Gestapos henrettelser under andre verdenskrig. Ved hjelp av GIS-teknologi, geofysiske undersøkelser og historiske kilder forsøker forskere å kaste nytt lys over skjebnen til de savnede, uten å forstyrre det vernede området.
+
+[Kristoffer Eliassen Grini](https://falstadsenteret.no/ansatte) er forsker ved [Falstadsenteret](https://falstadsenteret.no). Han er utdannet med en doktorgrad i samtidsarkeologi fra NTNU (2022) og arbeider blant annet med både materielle og immaterielle spor etter krig og konflikt.
+
+<BR>
+<BR>
