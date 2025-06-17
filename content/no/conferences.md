@@ -4,7 +4,24 @@ title: 'Årlig konferanse'
 
 # Konferanse 2025
 
-Årskonferansen vil bli avholdt 15-16 oktober 2025 ved Universitetet Innlandet. Årets tema er "infrastruktur og grensesnitt". Følg med for mer informasjon. 
+Den tredje årlige konferansen for Nasjonalt forskningsnettverk for digital humaniora og kulturorganisasjon (DHKO) vil holdes ved Universitetet i Innlandet på Campus Hamar i samarbeid med forskergruppen *Digital Communication and Culture* og forskningsprosjektet *Verden på norsk: en digital utforskning av bibliomigrasjon og anmeldelser av oversatt skjønnlitteratur*, **onsdag 15. og torsdag 16. oktober 2025**.
+
+
+**Deadline for innsending av sammendrag/forslag er 15. August 2025.**
+
+Årets konferanse har temaet «infrastruktur og grensesnitt». Med dette ønsker vi å favne all humanistisk orientert forskning på, med og om infrastrukturer og grensesnitt. Fra visuell epistemologi, via digitale medier og materialer, til forskningsinfrastrukturer og organisering av kultur. Ikke minst arkiver, museer og biblioteker som infrastrukturer og grensesnitt for digital humaniora-forskning for fortid, nåtid, og fremtid.
+
+Årets konferanse vil inneholde workshops og presentasjoner, samt to keynotes (TBA).
+Presentasjonsholdere og workshopdeltagere på konferansen får dessuten muligheten til å bidra i artikkelform til en spesialutgave av det [DHNB Publications](https://journals.uio.no/dhnbpub) (Nivå 1, Kanalregisteret) etter konferansen.
+ 
+
+[Årets konferansenettside finner dere her](https://www.inn.no/om-universitetet/fakultet-for-lererutdanning-og-pedagogikk/arrangementer-fra-lup/dhko-2025/index.html)
+
+
+[Call for papers (PDF) finner du her](https://www.inn.no/om-universitetet/fakultet-for-lererutdanning-og-pedagogikk/arrangementer-fra-lup/dhko-2025/call-for-papers-dhko-2025.pdf)
+ 
+
+Ta kontakt med spørsmål: **dhko2025@inn.no**
 
 <br>
 <br>
