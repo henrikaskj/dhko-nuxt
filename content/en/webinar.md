@@ -28,7 +28,7 @@ Over the course of a century, from 1800 to 1900, Norway transitions from being p
 
 As literary data, she uses an international corpus consisting of approximately 750 travelogues from the National Library’s archives, which she has named the Norwegian Travel Literature Corpus 1800–1900.
 
-The project is affiliated with the research group Literature, Technology and Media at the Department of Language and Literature at NTNU, and the Research Council of Norway project [ImagiNation. Mapping the Imagined Geographies of Norwegian Literature from 1814 to 1905](https://www.ntnu.edu/isl/imagination).
+The project is affiliated with the research group Literature, Technology and Media at the Department of Language and Literature at NTNU, and the Research Council of Norway project [ImagiNation. Mapping the Imagined Geographies of Norwegian Literature from 1814 to 1905](https://prosjektbanken.forskningsradet.no/en/project/FORISS/314605?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=score&sortOrder=desc&resultCount=30&offset=0&Fritekst=imagination).
 
 **UPCOMING**
 
