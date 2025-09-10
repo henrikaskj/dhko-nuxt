@@ -4,9 +4,11 @@ title: 'DH Lecture series 2025'
 
 # **Webinar Series 2025**
 
-The DH lecture series is a joint initiative between the [Digital Lab](https://www.uib.no/en/digitallab) at the [University Library](https://www.uib.no/en/ub) in Bergen, [D-Lab](https://www.ntnu.no/ub/d-lab) at NTNU and DHKO. The lecture series deals with DH-related topics and gives researchers and others engaged in DH projects or research the opportunity to share their experiences, successes and challenges related to the use of digital tools and/or methods.
+The DH lecture series is a collaboration between the [Digital Lab](https://www.uib.no/en/digitallab) at the [University Library](https://www.uib.no/en/ub) in Bergen, [D-Lab](https://www.ntnu.no/ub/d-lab) at NTNU and the Norwegian Network for Digital Humanities and Cultural Orgainzation (DHKO). The lecture series addresses DH-related topics and gives researchers and others involved in DH projects or research the opportunity to share their experiences, successes and challenges related to the use of digital tools and/or methods.
 
 Information about the lectures will be announced well in advance via the DHKO mailing list, and posted on [the event calendar of the Digital Lab at UiB,](https://www.uib.no/en/digitallab/calendar) where you can register to receive a Zoom link.
+
+Do you have suggestions for topics you would like to hear more about, or are you working on something that you would like to share in a lecture? Do not hesitate to contact [the organizers by e-mail](emma.aadland@uib.no).
 
 ## DH lectures Autumn 2025: 
 
