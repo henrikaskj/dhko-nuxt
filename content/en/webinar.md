@@ -12,23 +12,25 @@ Do you have suggestions for topics you would like to hear more about, or are you
 
 ## DH lectures Autumn 2025: 
 
-- **Thursday 25 September at 11:30-12:00 [IN NORWEGIAN]**
+- **Thursday 23 October at 11:30-12:00 IN NORWEGIAN** 
 
-**What can literary travelogues tell us about 19th-century Norway?**
+### DH-Lunch: Norchron - Norwegian diachronic corpus
 
-Join us for the first Digital Humanities Lunch Lecture (DH-lunch) of the autumn, where we’ll explore what the Norwegian Travel Literature Corpus can reveal about how Norway was portrayed in 19th-century travel writing, both by foreign travelers and Norwegians themselves.
+A research project that aims to build a digital text collection covering the development of the Norwegian language from the runic inscriptions until 1814.
 
-PhD candidate [Marit Sjelmo](https://www.ntnu.no/ansatte/marit.sjelmo) will present her project and share how she has worked with the Norwegian Travel Literature Corpus from a macro perspective using digital tools.
+**About Norchron**
 
-**About the lecturer and the PhD project**
+Norwegian Diachronic Corpus (Norchron) is a research project that aims to build up a digital text collection that covers the development of the Norwegian language from the runic inscriptions up to 1814. The project is led by Humit – Centre for Digital Development at the University of Oslo – and has received support from the Research Council of Norway.
 
-Marit Sjelmo is a PhD candidate at NTNU, Department of Language and Literature. In her doctoral project titled "Den litterære landmålingen av Norge: reiseskildringer 1800–1850", she investigates representations of Norway in 19th-century travel literature.
+A corpus is a digital collection of texts that captures instances of linguistic expression. Corporas provide a picture of natural language use, and can be used as a basis for research.  In Norchron, the texts will be analyzed grammatically, localized, and made available to both researchers and the general public. Many of the texts are already available in digital formats, but are scattered in different places and in different formats. Other texts require more detailed philological processing before they can be published.
 
-Over the course of a century, from 1800 to 1900, Norway transitions from being portrayed as a «terra incognita» in this literature to appearing as a modern European nation-state and a destination for global mass tourism.
+Norchron fills an important gap in existing corpus resources by offering a historical dimension that has previously been lacking. The project will create a historical corpus of the Norwegian language from the runic inscriptions up to 1814.
 
-As literary data, she uses an international corpus consisting of approximately 750 travelogues from the National Library’s archives, which she has named the Norwegian Travel Literature Corpus 1800–1900.
+**Presented by Dag Trygve Truslew Haug**
 
-The project is affiliated with the research group Literature, Technology and Media at the Department of Language and Literature at NTNU, and the Research Council of Norway project [ImagiNation. Mapping the Imagined Geographies of Norwegian Literature from 1814 to 1905](https://prosjektbanken.forskningsradet.no/project/FORISS/314605?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=score&sortOrder=desc&resultCount=30&offset=0&Fritekst=imagination).
+Norchron is presented by Dag Trygve Truslew Haug. He is a professor of linguistics and classical languages at the University of Oslo, with a background in Greek, Latin and historical linguistics. He has published widely in formal semantics, syntax and digital humanities, and is now head of the Centre for Digital Development at the Faculty of Humanities. Haug has received several research awards, including the Nils Klim Prize, and has been central in the development of corpus resources for ancient Indo-European languages.
+
+[More information about the Norchron project](https://www.hf.uio.no/om/aktuelt/aktuelle-saker/2024/stotte-til-humits-nye-sprakprosjekt.html).
 
 **UPCOMING**
 
