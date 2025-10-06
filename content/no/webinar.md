@@ -12,6 +12,26 @@ Har du forslag til tema du ønsker å høre mer om, eller jobber du selv med noe
 
 ## DH-foredrag høsten 2025:
 
+- **Torsdag 23. oktober kl. 11.30-12.00 [PÅ NORSK]**
+
+***Norchron - Norwegian diachronic corpus***
+
+Et forskningsprosjekt som har som mål å bygge en digital tekstsamling over utviklingen av det norske språket fra runeinnskriftene og frem til 1814.
+
+****Om Norsk diakront korpus (Norchron)**** 
+
+Norchron er et forskningsprosjekt som har som mål å bygge opp en digital tekstsamling som dekker utviklingen av det norske språket fra runeinnskriftene og frem til 1814. Prosjektet ledes av Humit – Senter for digital utvikling ved Universitetet i Oslo – og har fått støtte fra Forskningsrådet.
+
+Et korpus er en digital samling av tekster som fanger opp forekomster av språklige uttrykk. Korpuser gir et bilde av naturlig språkbruk, og kan brukes som grunnlag for forskning. 
+
+I Norchron skal tekstene analyseres grammatisk, lokaliseres, og gjøres tilgjengelige for både forskere og allmennheten. Mange av tekstene finnes allerede i digitale formater, men er spredt på ulike steder og i forskjellige formater. Andre tekster krever mer detaljert filologisk bearbeiding før de kan publiseres. Norchron fyller et viktig hull i eksisterende korpusressurser ved å tilby en historisk dimensjon som tidligere har manglet. Prosjektet skal lage et historisk korpus over norsk språk fra runeinnskriftene og fram til 1814.
+
+****Foredragsholder Dag Trygve Truslew Haug****
+
+Norchron presenteres av [Dag Trygve Truslew Haug](https://www.hf.uio.no/ifikk/personer/vit/klassiske-sprak/fast/daghaug/index.html). Han  er professor i lingvistikk og klassiske språk ved Universitetet i Oslo, med bakgrunn i gresk, latin og historisk språkvitenskap. Han har publisert bredt innen formell semantikk, syntaks og digital humaniora, og leder nå Senter for digital utvikling ved Det humanistiske fakultet. Haug har mottatt flere forskningspriser, inkludert Nils Klim-prisen, og har vært sentral i utviklingen av korpusressurser for gamle indoeuropeiske språk.
+
+[Mer informasjon om Norchron-prosjektet](https://www.hf.uio.no/om/aktuelt/aktuelle-saker/2024/stotte-til-humits-nye-sprakprosjekt.html)
+
 - **Torsdag 25. september kl. 11.30-12.00 [PÅ NORSK]**
 
 Bli med på høstens første Digital Humaniora-lunsjforedrag (DH-lunsj), hvor vi skal se nærmere på hva Norsk reiselitterært korpus kan fortelle om måten Norge ble fremstilt på i 1800-tallets reiselitteratur, både av utenlandske reisende og av nordmenn selv.
