@@ -14,7 +14,7 @@ Har du forslag til tema du ønsker å høre mer om, eller jobber du selv med noe
 
 - **Torsdag 23. oktober kl. 11.30-12.00 [PÅ NORSK]**
 
-***Norchron - Norwegian diachronic corpus***
+### Norchron - Norwegian diachronic corpus
 
 Et forskningsprosjekt som har som mål å bygge en digital tekstsamling over utviklingen av det norske språket fra runeinnskriftene og frem til 1814.
 
