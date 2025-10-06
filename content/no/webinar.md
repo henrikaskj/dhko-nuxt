@@ -18,7 +18,7 @@ Har du forslag til tema du ønsker å høre mer om, eller jobber du selv med noe
 
 Et forskningsprosjekt som har som mål å bygge en digital tekstsamling over utviklingen av det norske språket fra runeinnskriftene og frem til 1814.
 
-****Om Norsk diakront korpus (Norchron)**** 
+**Om Norsk diakront korpus (Norchron)**
 
 Norchron er et forskningsprosjekt som har som mål å bygge opp en digital tekstsamling som dekker utviklingen av det norske språket fra runeinnskriftene og frem til 1814. Prosjektet ledes av Humit – Senter for digital utvikling ved Universitetet i Oslo – og har fått støtte fra Forskningsrådet.
 
@@ -26,7 +26,7 @@ Et korpus er en digital samling av tekster som fanger opp forekomster av språkl
 
 I Norchron skal tekstene analyseres grammatisk, lokaliseres, og gjøres tilgjengelige for både forskere og allmennheten. Mange av tekstene finnes allerede i digitale formater, men er spredt på ulike steder og i forskjellige formater. Andre tekster krever mer detaljert filologisk bearbeiding før de kan publiseres. Norchron fyller et viktig hull i eksisterende korpusressurser ved å tilby en historisk dimensjon som tidligere har manglet. Prosjektet skal lage et historisk korpus over norsk språk fra runeinnskriftene og fram til 1814.
 
-****Foredragsholder Dag Trygve Truslew Haug****
+**Foredragsholder Dag Trygve Truslew Haug**
 
 Norchron presenteres av [Dag Trygve Truslew Haug](https://www.hf.uio.no/ifikk/personer/vit/klassiske-sprak/fast/daghaug/index.html). Han  er professor i lingvistikk og klassiske språk ved Universitetet i Oslo, med bakgrunn i gresk, latin og historisk språkvitenskap. Han har publisert bredt innen formell semantikk, syntaks og digital humaniora, og leder nå Senter for digital utvikling ved Det humanistiske fakultet. Haug har mottatt flere forskningspriser, inkludert Nils Klim-prisen, og har vært sentral i utviklingen av korpusressurser for gamle indoeuropeiske språk.
 
