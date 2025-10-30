@@ -34,6 +34,4 @@ Norchron is presented by Dag Trygve Truslew Haug. He is a professor of linguisti
 
 **UPCOMING**
 
-- **Thursday the 23rd of October at 11.30-12.00AM**
-
 - **Thursday the 27th of November at 11.30-12.00AM**
