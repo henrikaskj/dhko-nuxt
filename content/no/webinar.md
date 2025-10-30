@@ -45,6 +45,4 @@ Prosjektet er tilknyttet forskergruppen Litteratur, teknologi og medier ved Inst
 
 **KOMMENDE**
 
-- **Torsdag 23. oktober kl. 11.30-12.00**
-
 - **Torsdag 27. november kl. 11.30-12.00**
