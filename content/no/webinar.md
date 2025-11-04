@@ -18,7 +18,7 @@ Har du forslag til tema du ønsker å høre mer om, eller jobber du selv med noe
 
 I dette Digital Humaniora-lunsjforedraget (DH-lunsj) gir prosjektleiar for [CODICUM](https://www.codicum.eu/)-prosjektet, Åslaug Ommundsen, eit innblikk i korleis bokfragment best kan presenterast som virtuelle bøker.
 
-[Åslaug Ommundsen](https://www4.uib.no/finn-ansatte/%C3%85slaug.Ommundsen) er professor i mellomalderlatin ved Universitetet i Bergen og ein av fire forskingsleiarar på det ERC-finansierte prosjektet CODICUM. Prosjektet undersøker dei nordiske samlingane av mellomalderlege bokfragment for å kaste lys over bokkultur og lærde nettverk i perioden ca. 1000-1500. 
+[Åslaug Ommundsen](https://www4.uib.no/finn-ansatte/%C3%85slaug.Ommundsen) er professor i mellomalderlatin ved Universitetet i Bergen og ein av fire forskingsleiarar på det ERC-finansierte prosjektet [CODICUM](https://www.codicum.eu/). Prosjektet undersøker dei nordiske samlingane av mellomalderlege bokfragment for å kaste lys over bokkultur og lærde nettverk i perioden ca. 1000-1500. 
 
 Eit element i CODICUM-prosjektet er å utforske korleis bokfragment best kan presenterast som virtuelle bøker. Fragment frå same bok er ofte spreidde over fleire samlingar, og til og med over landegrenser. Det digitale formatet gir eit eineståande høve til å sameine desse fragmenta i ein tenkt struktur, og slik formidle eit (fragmentarisk) inntrykk av boka som ein gong fanst. 
 
