@@ -14,6 +14,8 @@ Do you have suggestions for topics you would like to hear more about, or are you
 
 - **Thursday 27 November at 11:30-12:00 IN NORWEGIAN**
 
+In this Digital Humanities lunch lecture (DH-lunch), the project leader of the [CODICUM](https://www.codicum.eu/home) project, Åslaug Ommundsen, offers insight into how book fragments can best be presented as virtual books. 
+
 [Åslaug Ommundsen](https://www4.uib.no/en/find-employees/%C3%85slaug.Ommundsen) is a professor of Medieval Latin philology at the University of Bergen and one of four research leaders on the ERC-funded project [CODICUM](https://www.codicum.eu/home). The project investigates Nordic collections of medieval book fragments to shed light on book culture and scholarly networks during the period ca. 1000–1500.
 
 One element of the CODICUM project is to explore how book fragments can best be presented as virtual books. Fragments from the same book are often scattered across multiple collections, and even across national borders. The digital format offers a unique opportunity to reunite these fragments into a conceptual structure, thereby conveying a (fragmentary) impression of the book that once existed.
