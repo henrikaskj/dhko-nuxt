@@ -40,6 +40,5 @@ Norchron is presented by Dag Trygve Truslew Haug. He is a professor of linguisti
 
 [More information about the Norchron project](https://www.hf.uio.no/om/aktuelt/aktuelle-saker/2024/stotte-til-humits-nye-sprakprosjekt.html).
 
-**UPCOMING**
 
-- **Thursday the 27th of November at 11.30-12.00AM**
+
