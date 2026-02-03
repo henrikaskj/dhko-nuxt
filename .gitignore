@@ -1,4 +1,7 @@
-# Nuxt dev/build outputs
+# Next.js
+.next
+
+# Nuxt dev/build outputs (legacy)
 .output
 .data
 .nuxt

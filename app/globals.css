@@ -1,7 +1,6 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
   main {
@@ -9,11 +8,12 @@
     padding: 1.25rem;
   }
 
-  html{
+  html {
     overflow-y: scroll;
-    }
-  
-  main h2, main h1 {
+  }
+
+  main h2,
+  main h1 {
     font-weight: bold;
     font-size: 1.5rem;
     margin-bottom: 1.25rem;
@@ -28,7 +28,7 @@
   }
 
   p {
-    @apply pb-6
+    @apply pb-6;
   }
 
   blockquote {
@@ -43,27 +43,25 @@
   }
 
   a {
-    @apply decoration-rose-500 underline decoration-2 underline-offset-4
+    @apply decoration-rose-500 underline decoration-2 underline-offset-4;
   }
 
   a[aria-current] {
-    @apply decoration-amber-500 underline decoration-2 underline-offset-4
+    @apply decoration-amber-500 underline decoration-2 underline-offset-4;
   }
 
   main a {
-    @apply decoration-rose-500 underline decoration-2 underline-offset-4
+    @apply decoration-rose-500 underline decoration-2 underline-offset-4;
   }
 
-  main ul, main ol {
-    @apply pb-6 pl-5 ;
+  main ul,
+  main ol {
+    @apply pb-6 pl-5;
   }
-
 
   main ul {
     @apply list-disc;
   }
-
-  
 
   main ol {
     @apply list-decimal;
@@ -73,10 +71,7 @@
     @apply pb-2;
   }
 
-
   code {
     @apply bg-slate-100 text-slate-800 rounded-sm px-1;
   }
-  
-
 }
