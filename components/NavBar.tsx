@@ -7,7 +7,7 @@ import type { ContentItem } from '@/lib/content'
 export function NavBar({ items }: { items: ContentItem[] }) {
   const pathname = usePathname()
   const baseClasses =
-    'inline-block rounded-lg text-sm sm:text-base font-medium whitespace-nowrap transition-colors duration-150 px-3 py-1.5 sm:px-4 sm:py-2 hover:text-white'
+    'inline-block rounded-lg text-sm sm:text-base font-medium whitespace-nowrap no-underline transition-colors duration-150 px-3 py-1.5 sm:px-4 sm:py-2 hover:text-white'
   const inactiveClasses = 'text-white hover:bg-white/15'
   const activeClasses = 'bg-white/25 text-white'
 
