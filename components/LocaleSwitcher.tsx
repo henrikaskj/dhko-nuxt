@@ -12,12 +12,12 @@ export function LocaleSwitcher({ currentLocale }: { currentLocale: Locale }) {
   const noPath = !pathWithoutLocale ? '/no' : `/no${pathWithoutLocale}`
 
   return (
-    <>
+    <span className="flex items-center gap-2">
       {currentLocale !== 'en' && (
         <Link
           href={enPath}
           lang="en"
-          className="text-slate-50 no-underline flex items-center gap-1"
+          className="text-white/90 hover:text-white no-underline flex items-center gap-1.5 text-sm font-medium px-3 py-1.5 rounded-md hover:bg-white/15 transition-colors duration-150"
         >
           <LocaleIcon /> English
         </Link>
@@ -26,11 +26,11 @@ export function LocaleSwitcher({ currentLocale }: { currentLocale: Locale }) {
         <Link
           href={noPath}
           lang="no"
-          className="text-slate-50 no-underline flex items-center gap-1"
+          className="text-white/90 hover:text-white no-underline flex items-center gap-1.5 text-sm font-medium px-3 py-1.5 rounded-md hover:bg-white/15 transition-colors duration-150"
         >
           <LocaleIcon /> Norsk
         </Link>
       )}
-    </>
+    </span>
   )
 }

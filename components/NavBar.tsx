@@ -1,22 +1,38 @@
-import Link from 'next/link'
-import { getContentNavigation } from '@/lib/content'
-import type { Locale } from '@/lib/i18n'
+'use client'
 
-export function NavBar({ locale }: { locale: Locale }) {
-  const navigation = getContentNavigation(locale)
+import Link from 'next/link'
+import { usePathname } from 'next/navigation'
+import type { ContentItem } from '@/lib/content'
+
+export function NavBar({ items }: { items: ContentItem[] }) {
+  const pathname = usePathname()
+  const baseClasses =
+    'inline-block rounded-lg text-sm sm:text-base font-medium whitespace-nowrap transition-colors duration-150 px-3 py-1.5 sm:px-4 sm:py-2 hover:text-white'
+  const inactiveClasses = 'text-white hover:bg-white/15'
+  const activeClasses = 'bg-white/25 text-white'
+
   return (
     <nav>
-      <ul className="flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0 text-center lg:text-xl">
-        {navigation.map((link) => (
-          <li key={link.path}>
-            <Link
-              href={link.path}
-              className="text-slate-50 hover:text-slate-300 whitespace-nowrap"
-            >
-              {link.title}
-            </Link>
-          </li>
-        ))}
+      <ul className="flex flex-wrap justify-center gap-2 sm:gap-3">
+        {items.map((link) => {
+          const isRoot = link.slug === ''
+          const isExactMatch = pathname === link.path
+          const isSectionMatch =
+            !isRoot && (pathname?.startsWith(`${link.path}/`) ?? false)
+          const isActive = isExactMatch || isSectionMatch
+
+          return (
+            <li key={link.path}>
+              <Link
+                href={link.path}
+                aria-current={isActive ? 'page' : undefined}
+                className={`${baseClasses} ${isActive ? activeClasses : inactiveClasses}`}
+              >
+                {link.title}
+              </Link>
+            </li>
+          )
+        })}
       </ul>
     </nav>
   )
