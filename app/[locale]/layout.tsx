@@ -27,13 +27,19 @@ export default async function LocaleLayout({
           <LocaleSwitcher currentLocale={locale as Locale} />
         </div>
         <div className="px-6 pt-14 pb-8 sm:pt-16 sm:pb-10 max-w-4xl mx-auto text-center">
-          <h1 className="font-bold text-3xl sm:text-4xl lg:text-5xl text-white tracking-tight mb-2">
-            DHKO
-          </h1>
-          <p className="text-lg sm:text-xl text-white/95 max-w-2xl mx-auto">
-            {messages[locale as Locale].description}
-          </p>
-          <div className="mt-6 min-h-[2.5rem] flex justify-center">
+          <div className="flex flex-col items-center gap-4 sm:gap-5">
+            <h1 className="font-bold text-3xl sm:text-4xl lg:text-5xl text-white tracking-tight">
+              DHKO
+            </h1>
+            <span
+              className="block w-12 h-px bg-white/40 rounded-full shrink-0"
+              aria-hidden
+            />
+            <p className="text-base sm:text-lg text-white/90 max-w-2xl mx-auto tracking-wide font-light">
+              {messages[locale as Locale].description}
+            </p>
+          </div>
+          <div className="mt-8 min-h-[2.5rem] flex justify-center">
             <NavBar items={navigation} />
           </div>
         </div>
