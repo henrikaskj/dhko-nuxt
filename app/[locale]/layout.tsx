@@ -22,17 +22,17 @@ export default async function LocaleLayout({
 
   return (
     <div className="min-h-screen flex flex-col bg-dhko-surface" key={locale}>
-      <header className="relative bg-dhko-primary shadow-header">
-        <div className="absolute top-0 right-0 p-4 sm:p-6 flex gap-3">
+      <header className="relative px-6 pt-16 pb-10 shadow-header dhko-hero-header">
+        <div className="absolute top-0 right-0 p-4 sm:p-6 flex gap-3 text-white">
           <LocaleSwitcher currentLocale={locale as Locale} />
         </div>
-        <div className="px-6 pt-14 pb-8 sm:pt-16 sm:pb-10 max-w-4xl mx-auto text-center">
+        <div className="max-w-4xl mx-auto text-center">
           <div className="flex flex-col items-center gap-4 sm:gap-5">
             <h1 className="font-bold text-3xl sm:text-4xl lg:text-5xl text-white tracking-tight">
               DHKO
             </h1>
             <span
-              className="block w-12 h-px bg-white/40 rounded-full shrink-0"
+              className="block w-12 h-px bg-white/50 rounded-full shrink-0"
               aria-hidden
             />
             <p className="text-base sm:text-lg text-white/90 max-w-2xl mx-auto tracking-wide font-light">
@@ -49,7 +49,7 @@ export default async function LocaleLayout({
           {children}
         </div>
       </main>
-      <footer className="py-6 px-4 bg-dhko-primary-dark text-center border-t border-white/10">
+      <footer className="py-6 px-4 bg-dhko-primary-dark text-center border-t border-dhko-primary/20">
         <p className="text-white/90 text-sm">
           &copy; {new Date().getFullYear()} DHKO
         </p>

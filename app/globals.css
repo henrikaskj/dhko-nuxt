@@ -3,16 +3,23 @@
 @tailwind utilities;
 
 :root {
-  /* DHKO color scheme: deep teal (academic, Nordic) + warm terracotta accent */
-  --color-primary: #0f4c5c;
-  --color-primary-light: #1a6b7c;
-  --color-primary-dark: #0a3540;
-  --color-accent: #b85c38;
-  --color-accent-hover: #9a4a2d;
-  --color-surface: #f8f7f5;
+  /* DHKO color scheme based on the hero banner */
+  /* Teal network lines (headings use the darker tone) */
+  --color-primary: #0b3a45;
+  --color-primary-light: #16959f;
+  --color-primary-dark: #05232b;
+
+  /* Banner-inspired dark orange accent (WCAG-friendly on white) */
+  --color-accent: #b15a1a;
+  --color-accent-hover: #8c4514;
+
+  /* Slightly dimmed light surfaces (avoid stark white) */
+  --color-surface: #f3f4f6;
   --color-surface-elevated: #ffffff;
-  --color-text: #1a1f22;
-  --color-text-muted: #5c6569;
+
+  /* Dark body text on light background */
+  --color-text: #182127;
+  --color-text-muted: #4a5563;
 }
 
 @layer base {
@@ -94,7 +101,7 @@
   }
 
   main a[aria-current] {
-    color: var(--color-primary);
+    color: var(--color-accent-hover);
     font-weight: 600;
   }
 
@@ -133,5 +140,21 @@
     padding: 0.15em 0.4em;
     border-radius: 0.25rem;
     font-size: 0.9em;
+  }
+}
+
+@layer components {
+  /* Hero banner that fades into the dhko_cover image at the top */
+  .dhko-hero-header {
+    background-image:
+      linear-gradient(
+        to bottom,
+        rgba(6, 23, 34, 0.35),
+        rgba(6, 23, 34, 0.9)
+      ),
+      url('/dhko_cover.jpg');
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
   }
 }
