@@ -3,6 +3,12 @@ import { LocaleSwitcher } from '@/components/LocaleSwitcher'
 import { getContentNavigation } from '@/lib/content'
 import { locales, messages, type Locale } from '@/lib/i18n'
 import { notFound } from 'next/navigation'
+import { Lato } from 'next/font/google'
+
+const latoBlack = Lato({
+  subsets: ['latin'],
+  weight: '900',
+})
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -28,7 +34,9 @@ export default async function LocaleLayout({
         </div>
         <div className="max-w-4xl mx-auto text-center">
           <div className="flex flex-col items-center gap-4 sm:gap-5">
-            <h1 className="font-bold text-3xl sm:text-4xl lg:text-5xl text-white tracking-tight">
+            <h1
+              className={`${latoBlack.className} font-black text-3xl sm:text-4xl lg:text-5xl text-white tracking-tight`}
+            >
               DHKO
             </h1>
             <span
