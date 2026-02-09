@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <rect width="32" height="32" fill="#0f4c5c" rx="4"/>
+  <rect width="32" height="32" fill="#05232b" rx="6"/>
   <text
     x="16"
     y="22"
     text-anchor="middle"
     fill="white"
-    font-family="ui-sans-serif, system-ui, sans-serif"
-    font-weight="700"
+    font-family="'Lato', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-weight="900"
     font-size="14"
     letter-spacing="-0.02em"
   >DH</text>
