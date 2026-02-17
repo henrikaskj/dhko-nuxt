@@ -1,42 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 67.733331 67.733331"
-   height="256"
-   width="256">
-  <defs
-     id="defs2" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-229.26667)"
-     id="layer1">
-    <rect
-       y="229.26668"
-       x="6.135254e-07"
-       height="67.73333"
-       width="67.73333"
-       id="rect4541"
-       style="opacity:1;fill:#334155;fill-opacity:1;stroke:none;stroke-width:0.20366572;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       id="path4535"
-       d="m 11.324323,251.46521 v 11.66812 11.66813 h 5.145112 c 3.822492,0 5.444915,-0.0587 6.310312,-0.22789 4.66932,-0.91294 7.867682,-3.79524 9.058053,-8.16323 0.479706,-1.76027 0.475489,-5.60249 -0.0081,-7.3797 -0.952993,-3.50237 -3.020451,-5.70287 -6.422866,-6.83648 -1.808974,-0.60272 -3.331281,-0.72895 -8.785509,-0.72895 z m 24.605941,0 v 11.66812 11.66813 h 2.698749 2.698751 v -4.68313 -4.68312 h 4.762504 4.7625 v 4.68312 4.68313 h 2.77812 2.77812 v -11.66813 -11.66812 h -2.77812 -2.77812 v 4.68312 4.68313 h -4.7625 -4.762504 v -4.68313 -4.68312 h -2.698751 z m -19.05,4.28625 1.389062,0.003 c 3.929634,0.009 6.329679,1.14917 7.497836,3.56226 1.108213,2.28926 0.948642,5.82662 -0.364007,8.06648 -1.265102,2.15874 -3.448652,3.12772 -7.054454,3.13067 l -1.468437,10e-4 v -7.38158 z"
-       style="fill:#ffffff;stroke-width:0.15875001" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" fill="#05232b" rx="6"/>
+  <text
+    x="16"
+    y="22"
+    text-anchor="middle"
+    fill="white"
+    font-family="'Lato', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-weight="900"
+    font-size="14"
+    letter-spacing="-0.02em"
+  >DH</text>
 </svg>
